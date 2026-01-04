@@ -251,7 +251,7 @@ export default function EulaPage() {
       BDECloud describing the issue, including your contact details and the
       Software involved. Notices should be sent to:
       <br />
-      support@bdecloud.live
+      support@bdecloud.online
     </p>
 
     <h3 className="text-xl font-semibold">Mediation</h3>
@@ -284,7 +284,7 @@ export default function EulaPage() {
 
     <p>
       You may opt out of arbitration within 30 days of acquiring the Software by
-      sending an email to support@bdecloud.live
+      sending an email to support@bdecloud.online
       . Your message must include your name, purchase date, and license
       information. Opting out will not affect any other rights under this
       Agreement.

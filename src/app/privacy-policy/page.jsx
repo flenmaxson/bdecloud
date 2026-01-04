@@ -49,7 +49,7 @@ export default function PrivacyPolicyPage() {
     <h2 className="text-2xl font-semibold">Information We Collect</h2>
 
     <p>
-      We collect information to provide efficient services, deliver technical
+      We collect information to provide efficient services, deonliner technical
       support, improve user experience, and comply with legal obligations.
       Information may be collected when you visit our website, place an order,
       register an account, subscribe to communications, or contact our support team.
@@ -93,7 +93,7 @@ export default function PrivacyPolicyPage() {
     </h2>
 
     <p>
-      Advertisements displayed on our website may be delivered by third-party
+      Advertisements displayed on our website may be deonlinered by third-party
       advertising networks that use their own cookies and tracking technologies.
       BDECloud does not control or manage these cookies.
     </p>
@@ -166,7 +166,7 @@ export default function PrivacyPolicyPage() {
     <p>We use collected information to:</p>
 
     <ul className="list-disc pl-6 space-y-1">
-      <li>Deliver and maintain our services</li>
+      <li>Deonliner and maintain our services</li>
       <li>Provide technical and customer support</li>
       <li>Process orders and subscriptions</li>
       <li>Improve website performance and product quality</li>

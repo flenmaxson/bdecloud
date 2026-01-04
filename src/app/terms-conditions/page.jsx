@@ -46,7 +46,7 @@ This website and software are owned and managed by Billionaire Dream Estate Priv
     </ul>
 
     <p>
-      These Terms apply to all BDECloud software, subscription services, technical support, tools, documentation, and related content (collectively, the “Services”) provided through our official website at https://www.bdecloud.live, including any affiliated subdomains, customer portals, or support channels.
+      These Terms apply to all BDECloud software, subscription services, technical support, tools, documentation, and related content (collectively, the “Services”) provided through our official website at https://www.bdecloud.online, including any affiliated subdomains, customer portals, or support channels.
     </p>
 
     <p>

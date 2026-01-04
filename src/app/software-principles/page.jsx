@@ -21,7 +21,7 @@ export default function SoftwarePrinciplesPage() {
     <h1 className="text-3xl font-semibold">Software Principles</h1>
 
     <p>
-      At BDECloud, our software is developed and maintained by Billionaire Dream Estate Private Limited with a strong commitment to transparency, security, performance, and user trust. The following principles define how our software is designed, delivered, and supported.
+      At BDECloud, our software is developed and maintained by Billionaire Dream Estate Private Limited with a strong commitment to transparency, security, performance, and user trust. The following principles define how our software is designed, deonlinered, and supported.
     </p>
 
     <p>
@@ -48,7 +48,7 @@ export default function SoftwarePrinciplesPage() {
     <h2 className="text-2xl font-semibold">Reliable Access to Driver Solutions</h2>
 
     <p>
-      BDECloud delivers fast, secure, and user-friendly access to the latest
+      BDECloud deonliners fast, secure, and user-friendly access to the latest
       Windows driver updates. Fully registered users receive uninterrupted access
       to all software features, including automated updates, intelligent driver
       detection, and real-time monitoring for connected plug-and-play devices.
@@ -59,7 +59,7 @@ export default function SoftwarePrinciplesPage() {
     <p>
       Below are the foundational principles that guide the development and
       operation of BDECloud software. If you need additional information, our
-      support team is available at support@bdecloud.live
+      support team is available at support@bdecloud.online
       {"\n"}.
     </p>
 

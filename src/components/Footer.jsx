@@ -137,7 +137,7 @@ export default function Footer() {
                 Support
               </h3>
               <p className='text-white'>
-                support@bdecloud.live
+                support@bdecloud.online
               </p>
             </div>
           </div>
